@@ -19,7 +19,7 @@ pip install requirements.txt
 
 Step 3: Download Model
 1. Download file from: https://drive.google.com/file/d/1Uslo469jdxulRTTvMOpP4m9z9SAIuhf-/view?usp=drive_link
-2. Save the file under ./asr_train//wav2vec2-large-960h-cv
+2. Save the file under the following directory: ./asr_train//wav2vec2-large-960h-cv
 
 ## Usage of Model
 
